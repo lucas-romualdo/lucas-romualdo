@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm José Lucas</h1>
 <h3 align="center">Grapich Design and Frontend developer</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lucas-romualdo&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-romualdo" /> </p>
-
 - 🔭 I’m currently working on [Meu Animal Pet Shop](https://github.com/lucas-romualdo/meuanimalpetshop)
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/lucas-romualdo](https://www.behance.net/lucas-romualdo)
